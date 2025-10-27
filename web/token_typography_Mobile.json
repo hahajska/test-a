@@ -1,0 +1,28 @@
+{
+  "content": {
+    "body": {
+      "font-family": {
+        "Geist": "Geist"
+      },
+      "font-weight": {
+        "Regular": "Regular"
+      }
+    },
+    "heading": {
+      "font-family": {
+        "Geist": "Geist"
+      },
+      "font-weight": {
+        "SemiBold": "SemiBold"
+      }
+    },
+    "label": {
+      "font-family": {
+        "Geist": "Geist"
+      },
+      "font-weight": {
+        "Medium": "Medium"
+      }
+    }
+  }
+}
