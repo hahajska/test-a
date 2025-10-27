@@ -1,0 +1,101 @@
+{
+  "color": {
+    "bg": {
+      "canvas": "#1f2223",
+      "inverse-primary": "#ffffff",
+      "muted": "#464b53",
+      "primary": "#33373d",
+      "primary-raised": "#40444a",
+      "secondary": "#40444a",
+      "strong": "#2d2f34",
+      "subtle": "#2d2f34",
+      "surface": "#27292d",
+      "surface-raised tb deleted": "#2d2f34"
+    },
+    "border": {
+      "inverse-primary": "#c6cad2",
+      "strong": "#4d535c",
+      "subtle": "#464b53",
+      "weak": "#33373d"
+    },
+    "brand": {
+      "emphasis": "#006ad4",
+      "muted": "#8ac4ff",
+      "primary": "#006fdf",
+      "strong": "#0c80f5",
+      "subtle": "#313b45",
+      "weak": "#313b45"
+    },
+    "fg": {
+      "inverse-primary": "#ffffff",
+      "muted": "#8b929c",
+      "on-accent (testing)": "#ffffff",
+      "on-brand": "#ffffff",
+      "primary": "#ffffff",
+      "secondary": "#c6cad2",
+      "subtle": "#5a626a",
+      "tertiary": "#a5a9b1"
+    },
+    "info": {
+      "emphasis": "#eff6ff",
+      "muted": "#1d4ed8",
+      "primary": "#85b4ff",
+      "strong": "#dbeafe",
+      "subtle": "#1e40af",
+      "weak": "#313a57"
+    },
+    "negative": {
+      "emphasis": "#fef2f2",
+      "muted": "#b91c1c",
+      "primary": "#fb4141",
+      "strong": "#fee2e2",
+      "subtle": "#991b1b",
+      "weak": "#4f2c2c"
+    },
+    "overlay": {
+      "5": "rgba(255, 255, 255, 0.05)"
+    },
+    "positive": {
+      "emphasis": "#f0fdf4",
+      "muted": "#15803d",
+      "primary": "#6ecb72",
+      "strong": "#dcfce7",
+      "subtle": "#344139",
+      "weak": "#344139"
+    },
+    "support": {
+      "blue": {
+        "emphasis": "#1e3a8a",
+        "muted": "#93c5fd",
+        "primary": "#3b82f6",
+        "strong": "#1d4ed8",
+        "subtle": "#bfdbfe",
+        "weak": "#dbeafe"
+      },
+      "fuchsia": {
+        "emphasis": "#701a75",
+        "muted": "#f0abfc",
+        "primary": "#d946ef",
+        "strong": "#a21caf",
+        "subtle": "#f5d0fe",
+        "weak": "#fae8ff"
+      },
+      "violet": {
+        "emphasis": "#4c1d95",
+        "muted": "#c4b5fd",
+        "primary": "#8b5cf6",
+        "strong": "#6d28d9",
+        "subtle": "#ddd6fe",
+        "weak": "#ede9fe"
+      }
+    },
+    "warning": {
+      "emphasis": "#fff7ed",
+      "muted": "#c2410c",
+      "primary": "#f9a95d",
+      "strong": "#ffedd5",
+      "subtle": "#9a3412",
+      "weak": "#4a3d30"
+    }
+  }
+}
