@@ -1,0 +1,352 @@
+{
+  "body": {
+    "compact": {
+      "line-height": {
+        "Base": {
+          "$type": "number",
+          "$value": 20
+        },
+        "Large": {
+          "$type": "number",
+          "$value": 24
+        },
+        "Medium": {
+          "$type": "number",
+          "$value": 24
+        },
+        "Small": {
+          "$type": "number",
+          "$value": 20
+        },
+        "X-Large": {
+          "$type": "number",
+          "$value": 32
+        },
+        "X-Small": {
+          "$type": "number",
+          "$value": 16
+        }
+      },
+      "size": {
+        "Base": {
+          "$type": "number",
+          "$value": 15
+        },
+        "Large": {
+          "$type": "number",
+          "$value": 18
+        },
+        "Medium": {
+          "$type": "number",
+          "$value": 16
+        },
+        "Small": {
+          "$type": "number",
+          "$value": 14
+        },
+        "X-Large": {
+          "$type": "number",
+          "$value": 24
+        },
+        "X-Small": {
+          "$type": "number",
+          "$value": 12
+        }
+      }
+    },
+    "fixed": {
+      "line-height": {
+        "Base": {
+          "$type": "number",
+          "$value": 20
+        },
+        "Large": {
+          "$type": "number",
+          "$value": 24
+        },
+        "Medium": {
+          "$type": "number",
+          "$value": 24
+        },
+        "Small": {
+          "$type": "number",
+          "$value": 20
+        },
+        "X-Large": {
+          "$type": "number",
+          "$value": 32
+        },
+        "X-Small": {
+          "$type": "number",
+          "$value": 16
+        }
+      },
+      "size": {
+        "Base": {
+          "$type": "number",
+          "$value": 15
+        },
+        "Large": {
+          "$type": "number",
+          "$value": 18
+        },
+        "Medium": {
+          "$type": "number",
+          "$value": 16
+        },
+        "Small": {
+          "$type": "number",
+          "$value": 14
+        },
+        "X-Large": {
+          "$type": "number",
+          "$value": 24
+        },
+        "X-Small": {
+          "$type": "number",
+          "$value": 12
+        }
+      }
+    },
+    "font-family": {
+      "Geist": {
+        "$type": "string",
+        "$value": "Geist"
+      }
+    },
+    "font-weight": {
+      "Regular": {
+        "$type": "string",
+        "$value": "Regular"
+      }
+    }
+  },
+  "heading": {
+    "font-family": {
+      "Geist": {
+        "$type": "string",
+        "$value": "Geist"
+      }
+    },
+    "font-weight": {
+      "SemiBold": {
+        "$type": "string",
+        "$value": "SemiBold"
+      }
+    },
+    "line-height": {
+      "1": {
+        "$type": "number",
+        "$value": 64
+      },
+      "2": {
+        "$type": "number",
+        "$value": 56
+      },
+      "3": {
+        "$type": "number",
+        "$value": 48
+      },
+      "4": {
+        "$type": "number",
+        "$value": 40
+      },
+      "5": {
+        "$type": "number",
+        "$value": 32
+      },
+      "6": {
+        "$type": "number",
+        "$value": 24
+      },
+      "7": {
+        "$type": "number",
+        "$value": 20
+      }
+    },
+    "size": {
+      "1": {
+        "$type": "number",
+        "$value": 56
+      },
+      "2": {
+        "$type": "number",
+        "$value": 48
+      },
+      "3": {
+        "$type": "number",
+        "$value": 40
+      },
+      "4": {
+        "$type": "number",
+        "$value": 32
+      },
+      "5": {
+        "$type": "number",
+        "$value": 24
+      },
+      "6": {
+        "$type": "number",
+        "$value": 20
+      },
+      "7": {
+        "$type": "number",
+        "$value": 16
+      }
+    }
+  },
+  "label": {
+    "compact": {
+      "line-height": {
+        "2X-Large": {
+          "$type": "number",
+          "$value": 40
+        },
+        "3X-Large": {
+          "$type": "number",
+          "$value": 48
+        },
+        "Large": {
+          "$type": "number",
+          "$value": 24
+        },
+        "Medium": {
+          "$type": "number",
+          "$value": 24
+        },
+        "Small": {
+          "$type": "number",
+          "$value": 20
+        },
+        "X-Large": {
+          "$type": "number",
+          "$value": 32
+        },
+        "largePlus": {
+          "$type": "number",
+          "$value": 28
+        }
+      },
+      "size": {
+        "3X-Large": {
+          "$type": "number",
+          "$value": 38
+        },
+        "Large": {
+          "$type": "number",
+          "$value": 18
+        },
+        "Medium": {
+          "$type": "number",
+          "$value": 16
+        },
+        "Small": {
+          "$type": "number",
+          "$value": 14
+        },
+        "X-Large": {
+          "$type": "number",
+          "$value": 24
+        },
+        "XX-Large": {
+          "$type": "number",
+          "$value": 32
+        },
+        "largePlus": {
+          "$type": "number",
+          "$value": 20
+        }
+      }
+    },
+    "fixed": {
+      "line-height": {
+        "2X-Large": {
+          "$type": "number",
+          "$value": 40
+        },
+        "2X-Small": {
+          "$type": "number",
+          "$value": 14
+        },
+        "3X-Large": {
+          "$type": "number",
+          "$value": 48
+        },
+        "Large": {
+          "$type": "number",
+          "$value": 24
+        },
+        "Medium": {
+          "$type": "number",
+          "$value": 24
+        },
+        "Small": {
+          "$type": "number",
+          "$value": 20
+        },
+        "X-Large": {
+          "$type": "number",
+          "$value": 32
+        },
+        "X-Small": {
+          "$type": "number",
+          "$value": 16
+        },
+        "largePlus": {
+          "$type": "number",
+          "$value": 28
+        }
+      },
+      "size": {
+        "2X-Large": {
+          "$type": "number",
+          "$value": 32
+        },
+        "2X-Small": {
+          "$type": "number",
+          "$value": 10
+        },
+        "3X-Large": {
+          "$type": "number",
+          "$value": 38
+        },
+        "Large": {
+          "$type": "number",
+          "$value": 18
+        },
+        "Medium": {
+          "$type": "number",
+          "$value": 16
+        },
+        "Small": {
+          "$type": "number",
+          "$value": 14
+        },
+        "X-Large": {
+          "$type": "number",
+          "$value": 24
+        },
+        "X-Small": {
+          "$type": "number",
+          "$value": 12
+        },
+        "largePlus": {
+          "$type": "number",
+          "$value": 20
+        }
+      }
+    },
+    "font-family": {
+      "Geist": {
+        "$type": "string",
+        "$value": "Geist"
+      }
+    },
+    "font-weight": {
+      "Medium": {
+        "$type": "string",
+        "$value": "Medium"
+      }
+    }
+  }
+}
